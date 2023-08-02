@@ -1,0 +1,5 @@
+C:\Users\informatic iran\Desktop\Nemesis\Terminal.exe
+C:\Users\informatic iran\Desktop\Nemesis\Terminal.dll
+C:\Users\informatic iran\Desktop\Nemesis\Terminal.deps.json
+C:\Users\informatic iran\Desktop\Nemesis\Terminal.runtimeconfig.json
+C:\Users\informatic iran\Desktop\Nemesis\Terminal.pdb

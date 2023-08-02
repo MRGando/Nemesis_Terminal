@@ -1,0 +1,5 @@
+D:\C# projects\Terminal\bin\Release\netcoreapp3.1\Terminal\Terminal.exe
+D:\C# projects\Terminal\bin\Release\netcoreapp3.1\Terminal\Terminal.dll
+D:\C# projects\Terminal\bin\Release\netcoreapp3.1\Terminal\Terminal.deps.json
+D:\C# projects\Terminal\bin\Release\netcoreapp3.1\Terminal\Terminal.runtimeconfig.json
+D:\C# projects\Terminal\bin\Release\netcoreapp3.1\Terminal\Terminal.pdb

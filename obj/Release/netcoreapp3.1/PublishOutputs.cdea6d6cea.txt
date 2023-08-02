@@ -1,0 +1,5 @@
+C:\Users\informatic iran\OneDrive\Desktop\Nemes\Terminal.exe
+C:\Users\informatic iran\OneDrive\Desktop\Nemes\Terminal.dll
+C:\Users\informatic iran\OneDrive\Desktop\Nemes\Terminal.deps.json
+C:\Users\informatic iran\OneDrive\Desktop\Nemes\Terminal.runtimeconfig.json
+C:\Users\informatic iran\OneDrive\Desktop\Nemes\Terminal.pdb

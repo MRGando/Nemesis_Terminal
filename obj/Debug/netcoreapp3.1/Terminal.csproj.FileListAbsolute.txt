@@ -1,0 +1,14 @@
+D:\C# projects\Terminal\bin\Debug\netcoreapp3.1\Terminal.exe
+D:\C# projects\Terminal\bin\Debug\netcoreapp3.1\Terminal.deps.json
+D:\C# projects\Terminal\bin\Debug\netcoreapp3.1\Terminal.runtimeconfig.json
+D:\C# projects\Terminal\bin\Debug\netcoreapp3.1\Terminal.runtimeconfig.dev.json
+D:\C# projects\Terminal\bin\Debug\netcoreapp3.1\Terminal.dll
+D:\C# projects\Terminal\bin\Debug\netcoreapp3.1\Terminal.pdb
+D:\C# projects\Terminal\obj\Debug\netcoreapp3.1\Terminal.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# projects\Terminal\obj\Debug\netcoreapp3.1\Terminal.AssemblyInfoInputs.cache
+D:\C# projects\Terminal\obj\Debug\netcoreapp3.1\Terminal.AssemblyInfo.cs
+D:\C# projects\Terminal\obj\Debug\netcoreapp3.1\Terminal.csproj.CoreCompileInputs.cache
+D:\C# projects\Terminal\obj\Debug\netcoreapp3.1\Terminal.dll
+D:\C# projects\Terminal\obj\Debug\netcoreapp3.1\Terminal.pdb
+D:\C# projects\Terminal\obj\Debug\netcoreapp3.1\Terminal.genruntimeconfig.cache
+D:\C# projects\Terminal\obj\Debug\netcoreapp3.1\Terminal.csproj.AssemblyReference.cache
